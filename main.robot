@@ -3,7 +3,7 @@ Library     Selenium2Library
 *** Variables ***
 ${BROWSER}    Chrome
 ${URL}    https://google.com
-${DELAY}      0
+${DELAY}      5s
 
 *** Test Cases ***
 
