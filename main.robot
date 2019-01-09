@@ -5,7 +5,7 @@ ${BROWSER}    Chrome
 ${URL}    https://google.com
 ${DELAY}      0
 
-*** Keywords ***
+*** Test Cases ***
 
 Open Browser To Login Page
     Open Browser    ${URL}    ${BROWSER}
